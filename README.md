@@ -1,13 +1,13 @@
 
 ## Referencies 
 
-# GRAFANA 
+### GRAFANA 
 
 https://github.com/De30/grafana/blob/3d-scatter-plot/public/app/features/plugins/sql/types.ts
 
 
 
-# Referencias de atributos cargados dinamicamente 
+### Referencias de atributos cargados dinamicamente 
 
 https://ukrbublik.github.io/react-awesome-query-builder/
 
@@ -18,11 +18,11 @@ https://github.com/Cyrelc/FastForward-Express/blob/master/resources/assets/js/co
 https://github.com/terminusdb/terminusdb-dashboard/blob/main/packages/tdb-dashboard/src/components/AdvancedSearch.js
 
 
-# Referencia principal:
+### Referencia principal:
 
 https://github.com/gmai2006/react-dashboard/tree/main 
 
-# Modificacioens pendientes: 
+### Modificacioens pendientes: 
 Se modifican estilos 
 
 * Falta añadir opcioens 
