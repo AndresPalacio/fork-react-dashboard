@@ -1,6 +1,33 @@
-# Getting Started with Create React App
+version nodejs :nvm : 16.8.0 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+--- Referencies -- GRAFANA 
+
+https://github.com/De30/grafana/blob/3d-scatter-plot/public/app/features/plugins/sql/types.ts
+
+
+
+Referencias de atributos cargados dinamicamente 
+
+https://ukrbublik.github.io/react-awesome-query-builder/
+
+https://github.com/terminusdb/terminusdb-dashboard/tree/main 
+
+https://github.com/Cyrelc/FastForward-Express/blob/master/resources/assets/js/components/ratesheets/ConditionalModal.js
+
+https://github.com/terminusdb/terminusdb-dashboard/blob/main/packages/tdb-dashboard/src/components/AdvancedSearch.js
+
+
+Referencia principal: https://github.com/gmai2006/react-dashboard/tree/main 
+
+Se modifican estilos 
+
+* Falta añadir opcioens 
+* Falta añadir paginas  
+
+
+
+
 
 ## Available Scripts
 
@@ -70,32 +97,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-
-version nodejs :nvm : 16.8.0 
-
-
---- Referencies -- GRAFANA 
-
-https://github.com/De30/grafana/blob/3d-scatter-plot/public/app/features/plugins/sql/types.ts
-
-
-
-Referencias de atributos cargados dinamicamente 
-
-https://ukrbublik.github.io/react-awesome-query-builder/
-
-https://github.com/terminusdb/terminusdb-dashboard/tree/main 
-
-https://github.com/Cyrelc/FastForward-Express/blob/master/resources/assets/js/components/ratesheets/ConditionalModal.js
-
-https://github.com/terminusdb/terminusdb-dashboard/blob/main/packages/tdb-dashboard/src/components/AdvancedSearch.js
-
-
-Referencia principal: https://github.com/gmai2006/react-dashboard/tree/main 
-
-Se modifican estilos 
-
-* Falta añadir opcioens 
-* Falta añadir paginas  
 
 
